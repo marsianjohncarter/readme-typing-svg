@@ -7,6 +7,8 @@
   <img src="https://readme-typing-svg.demolab.com/?lines=Type+messages+everywhere!;Add+a+bio+to+your+profile!;Add+a+description+to+your+repo!;Make+your+readme+stand+out!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1C19A9DC&center=true&random=false&width=510&height=55&lines=Hello!;My+name+is+John;I+am+a+Py%2FJs%2FReact+developer." alt="Typing SVG" /></a>
+
 <p align="center">
   <a href="https://github.com/search?q=extension%3Amd+%22https+readme+typing+svg%22&type=Code" alt="Users" title="Repo users">
     <img src="https://freshidea.com/jonah/app/github-search-results/readme-typing-svg/index.php"/></a>
